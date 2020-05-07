@@ -8,9 +8,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/css/all.min.css">
-<link rel="shortcut icon" href="https://QuerMirror.GitHub.io/favicon.ico?v=1588820250620">
+<link rel="shortcut icon" href="https://QuerMirror.GitHub.io/favicon.ico?v=1588820337416">
 <link rel="stylesheet" href="https://QuerMirror.GitHub.io/styles/main.css">
 
+
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css">
 
 
 
@@ -37,7 +39,7 @@ Marxico is a delicate Markdown editor for Evernote. With reliable storage an..."
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://QuerMirror.GitHub.io">
-        <img src="https://QuerMirror.GitHub.io/images/avatar.png?v=1588820250620" class="site-logo">
+        <img src="https://QuerMirror.GitHub.io/images/avatar.png?v=1588820337416" class="site-logo">
         <h1 class="site-title">QuerMirror&#39;s blog</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -195,9 +197,9 @@ Bob--&gt;Alice: I am good thanks!
 <h3 id="checkbox">Checkbox</h3>
 <p>You can use <code>- [ ]</code> and <code>- [x]</code> to create checkboxes, for example:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3446934"><label class="task-list-item-label" for="task-item-3446934"> Item1</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6391784"><label class="task-list-item-label" for="task-item-6391784"> Item2</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2981946"><label class="task-list-item-label" for="task-item-2981946"> Item3</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-698217"><label class="task-list-item-label" for="task-item-698217"> Item1</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8421044"><label class="task-list-item-label" for="task-item-8421044"> Item2</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6976117"><label class="task-list-item-label" for="task-item-6976117"> Item3</label></li>
 </ul>
 <blockquote>
 <p><strong>Note:</strong> Currently it is only partially supported. You can't toggle checkboxes in Evernote. You can only modify the Markdown in Marxico to do that. Next version will fix this.</p>
@@ -289,6 +291,11 @@ var app = new Vue({
 
 </script>
 
+
+  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad()
+  </script>
 
 
 
