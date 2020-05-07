@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://QuerMirror.GitHub.io</id>
     <title>QuerMirror&apos;s blog</title>
-    <updated>2020-05-07T03:15:55.190Z</updated>
+    <updated>2020-05-07T03:16:44.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://QuerMirror.GitHub.io"/>
     <link rel="self" href="https://QuerMirror.GitHub.io/atom.xml"/>
@@ -107,9 +107,9 @@ Bob--&gt;Alice: I am good thanks!
 <h3 id="checkbox">Checkbox</h3>
 <p>You can use <code>- [ ]</code> and <code>- [x]</code> to create checkboxes, for example:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9393472"><label class="task-list-item-label" for="task-item-9393472"> Item1</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-87276"><label class="task-list-item-label" for="task-item-87276"> Item2</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9399161"><label class="task-list-item-label" for="task-item-9399161"> Item3</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2502508"><label class="task-list-item-label" for="task-item-2502508"> Item1</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7879435"><label class="task-list-item-label" for="task-item-7879435"> Item2</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8312849"><label class="task-list-item-label" for="task-item-8312849"> Item3</label></li>
 </ul>
 <blockquote>
 <p><strong>Note:</strong> Currently it is only partially supported. You can't toggle checkboxes in Evernote. You can only modify the Markdown in Marxico to do that. Next version will fix this.</p>
