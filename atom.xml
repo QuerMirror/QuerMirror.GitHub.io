@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://QuerMirror.GitHub.io</id>
     <title>QuerMirror&apos;s blog</title>
-    <updated>2020-05-07T03:00:40.568Z</updated>
+    <updated>2020-05-07T03:06:47.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://QuerMirror.GitHub.io"/>
     <link rel="self" href="https://QuerMirror.GitHub.io/atom.xml"/>
-    <subtitle>个人博客，主要发布数学笔记</subtitle>
+    <subtitle>个人博客，主要发布数学笔记
+（可通过标签分类查找）</subtitle>
     <logo>https://QuerMirror.GitHub.io/images/avatar.png</logo>
     <icon>https://QuerMirror.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, QuerMirror&apos;s blog</rights>
@@ -106,9 +107,9 @@ Bob--&gt;Alice: I am good thanks!
 <h3 id="checkbox">Checkbox</h3>
 <p>You can use <code>- [ ]</code> and <code>- [x]</code> to create checkboxes, for example:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7655096"><label class="task-list-item-label" for="task-item-7655096"> Item1</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9330053"><label class="task-list-item-label" for="task-item-9330053"> Item2</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5698521"><label class="task-list-item-label" for="task-item-5698521"> Item3</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3812791"><label class="task-list-item-label" for="task-item-3812791"> Item1</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2198741"><label class="task-list-item-label" for="task-item-2198741"> Item2</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2474699"><label class="task-list-item-label" for="task-item-2474699"> Item3</label></li>
 </ul>
 <blockquote>
 <p><strong>Note:</strong> Currently it is only partially supported. You can't toggle checkboxes in Evernote. You can only modify the Markdown in Marxico to do that. Next version will fix this.</p>
