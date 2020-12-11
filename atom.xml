@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://QuerMirror.GitHub.io</id>
+    <id>https://quermirror.tk</id>
     <title>QuerMirror&apos;s blog</title>
-    <updated>2020-06-30T09:14:44.675Z</updated>
+    <updated>2020-12-11T08:06:47.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://QuerMirror.GitHub.io"/>
-    <link rel="self" href="https://QuerMirror.GitHub.io/atom.xml"/>
+    <link rel="alternate" href="https://quermirror.tk"/>
+    <link rel="self" href="https://quermirror.tk/atom.xml"/>
     <subtitle>个人博客，主要发布数学笔记
 （可通过标签分类查找）</subtitle>
-    <logo>https://QuerMirror.GitHub.io/images/avatar.png</logo>
-    <icon>https://QuerMirror.GitHub.io/favicon.ico</icon>
+    <logo>https://quermirror.tk/images/avatar.png</logo>
+    <icon>https://quermirror.tk/favicon.ico</icon>
     <rights>All rights reserved 2020, QuerMirror&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Welcome to Marxico]]></title>
-        <id>https://QuerMirror.GitHub.io/post/welcome-to-marxico/</id>
-        <link href="https://QuerMirror.GitHub.io/post/welcome-to-marxico/">
+        <id>https://quermirror.tk/post/welcome-to-marxico/</id>
+        <link href="https://quermirror.tk/post/welcome-to-marxico/">
         </link>
         <updated>2020-05-07T02:48:37.000Z</updated>
         <content type="html"><![CDATA[<p>@(Sample notebook)[Marxico|Manual|Markdown]</p>
@@ -107,9 +107,9 @@ Bob--&gt;Alice: I am good thanks!
 <h3 id="checkbox">Checkbox</h3>
 <p>You can use <code>- [ ]</code> and <code>- [x]</code> to create checkboxes, for example:</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2955376"><label class="task-list-item-label" for="task-item-2955376"> Item1</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4514976"><label class="task-list-item-label" for="task-item-4514976"> Item2</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3593174"><label class="task-list-item-label" for="task-item-3593174"> Item3</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-278712"><label class="task-list-item-label" for="task-item-278712"> Item1</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1946808"><label class="task-list-item-label" for="task-item-1946808"> Item2</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7654919"><label class="task-list-item-label" for="task-item-7654919"> Item3</label></li>
 </ul>
 <blockquote>
 <p><strong>Note:</strong> Currently it is only partially supported. You can't toggle checkboxes in Evernote. You can only modify the Markdown in Marxico to do that. Next version will fix this.</p>
